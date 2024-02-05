@@ -4,6 +4,7 @@ Compte rendu DAVID Malicia :
 
 Configuration de WSL sur windows en vertion debian : 
 ```wsl -s Debian```
+
 Installation de laravel, utilisation de la doc -> https://ianclemence.medium.com/setting-up-laravel-project-using-docker-step-by-step-guide-7c5720fbc2c8.
 Configuration de laravel et de tout le backend via la documentation du tp git -> créé minimaliste blog.
 
